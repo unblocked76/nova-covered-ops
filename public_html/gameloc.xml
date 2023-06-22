@@ -1,0 +1,1399 @@
+﻿<loc>
+
+	<!--update 18/09/2015-->
+
+
+	<language lang="en">
+		<touch_continue>TOUCH TO CONTINUE</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>ASSAULT RIFLE</hint_01_title_level_1>
+		<hint_01_level_1>The Assault Rifle is the default weapon and has infinite ammo.</hint_01_level_1>
+		<hint_02_title_level_1>HEALTH REGENERATION</hint_02_title_level_1>
+		<hint_02_level_1>Staying behind cover helps you regenerate health.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TELEKINESIS</hint_01_title_level_2>
+		<hint_01_level_2>The Telekinesis power helps you grab all the power-ups that have fallen from enemies.</hint_01_level_2>
+		<hint_02_title_level_2>INVULNERABILITY POWER-UP</hint_02_title_level_2>
+		<hint_02_level_2>The Invulnerability power-up renders you invulnerable for a short time.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>FLAMETHROWER</hint_01_title_level_3>
+		<hint_01_level_3>The Flamethrower is a very effective weapon at short distances.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>ENEMY GRENADES</hint_01_title_level_4>
+		<hint_01_level_4>Telekinesis can also help you throw enemy grenades back at them.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>RAPID FIRE</hint_01_title_level_5>
+		<hint_01_level_5>The Rapid Fire power-up makes the Assault Rifle fire faster.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>SNIPER RIFLE</hint_01_title_level_6>
+		<hint_01_level_6>The Sniper Rifle is an effective weapon at long distances, allowing for easier headshots.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>SLOW-TIME</hint_01_title_level_7>
+		<hint_01_level_7>Slow-Time slows down enemies, giving you more time to target them.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>SENTINEL</hint_01_title_level_8>
+		<hint_01_level_8>The Sentinel fires plasma projectiles that inflict damage even while you are behind cover. </hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>HEAVY PLASMA</hint_01_title_level_9>
+		<hint_01_level_9>Heavy Plasma is a slow but powerful weapon that inflicts damage to a wide area. </hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>GUNSHIP</hint_01_title_level_10>
+		<hint_01_level_10>The Gunship is a powerful boss that fires both light and heavy projectiles. </hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>NEXT: </next_title>
+		<next_text_01>TELEKINESIS POWER / INVULNERABILITY POWER-UP</next_text_01>
+		<next_text_02>FLAMETHROWER</next_text_02>
+		<next_text_03>ENEMY GRENADES</next_text_03>
+		<next_text_04>RAPID FIRE POWER-UP</next_text_04>
+		<next_text_05>SNIPER RIFLE</next_text_05>
+		<next_text_06>SLOW-TIME POWER</next_text_06>
+		<next_text_07>ENEMY SENTINEL</next_text_07>
+		<next_text_08>HEAVY PLASMA</next_text_08>
+		<next_text_09>ENEMY GUNSHIP</next_text_09>
+		<next_text_10>HARD LEVEL!</next_text_10>
+		<next_text_11>HARDER LEVEL!</next_text_11>
+		<next_text_12>HARDEST LEVEL!</next_text_12>
+		<destroy_title>Enemies destroyed: </destroy_title>
+		<headshot_title>Headshots: </headshot_title>
+		<time_title>Time: </time_title>
+		<totalscore_title>Total Score: </totalscore_title>
+		
+	</language>
+	
+	
+	
+	<language lang="vi">
+		<touch_continue>CHẠM ĐỂ TIẾP TỤC</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>SÚNG TRƯỜNG TẤN CÔNG</hint_01_title_level_1>
+		<hint_01_level_1>Súng trường tấn công là vũ khí mặc định và có đạn vô hạn.</hint_01_level_1>
+		<hint_02_title_level_1>PHỤC HỔI SINH LỰC</hint_02_title_level_1>
+		<hint_02_level_1>Nấp chắn giúp bạn phục hồi sinh lực.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>ĐIỀU KHIỂN VẬT THỂ TỪ XA</hint_01_title_level_2>
+		<hint_01_level_2>Siêu năng lực Điều khiển vật thể từ xa giúp bạn thu tất cả các đồ tăng lực rớt ra từ địch.</hint_01_level_2>
+		<hint_02_title_level_2>ĐỒ TĂNG LỰC BẤT TỬ</hint_02_title_level_2>
+		<hint_02_level_2>Đồ tăng lực Bất tử giúp bạn không bị thương trong một khoảng thời gian ngắn.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>SÚNG PHUN LỬA</hint_01_title_level_3>
+		<hint_01_level_3>Súng phun lửa là vũ khí rất hiệu quả khi ở cự li gần.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>LỰU ĐẠN ĐỊCH</hint_01_title_level_4>
+		<hint_01_level_4>Siêu năng lực Điều khiển vật thể từ xa còn có thể giúp bạn quăng ngược lựu đạn của địch về phía chúng.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>BẮN NHANH</hint_01_title_level_5>
+		<hint_01_level_5>Đồ tăng lực Bắn nhanh giúp Súng trường tấn công nã đạn nhanh hơn.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>SÚNG BẮN TỈA</hint_01_title_level_6>
+		<hint_01_level_6>Súng bắn tỉa là vũ khí rất hiệu quả cho bắn tầm xa, cho phép bắn vào đầu dễ hơn.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>LÀM CHẬM THỜI GIAN</hint_01_title_level_7>
+		<hint_01_level_7>Sức mạnh này sẽ làm địch chậm lại, cho bạn thêm thời gian để ngắm bắn.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>LÍNH CANH</hint_01_title_level_8>
+		<hint_01_level_8>Lính canh bắn đạn plasma gây sát thương ngay cả khi bạn đang nấp chắn.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>PLASMA HẠNG NẶNG</hint_01_title_level_9>
+		<hint_01_level_9>Plasma Hạng nặng là một vũ khí tuy chậm nhưng cực mạnh, gây sát thương diện rộng.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>CHIẾN CƠ</hint_01_title_level_10>
+		<hint_01_level_10>Chiến cơ là một trùm cực mạnh, bắn đạn cả hạng nhẹ lẫn hạng nặng.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>KẾ TIẾP:</next_title>
+		<next_text_01>ĐIỀU KHIỂN VẬT THỂ TỪ XA / ĐỒ TĂNG LỰC BẤT TỬ</next_text_01>
+		<next_text_02>SÚNG PHUN LỬA</next_text_02>
+		<next_text_03>LỰU ĐẠN ĐỊCH</next_text_03>
+		<next_text_04>ĐỒ TĂNG LỰC BẮN NHANH</next_text_04>
+		<next_text_05>SÚNG BẮN TỈA</next_text_05>
+		<next_text_06>LÀM CHẬM THỜI GIAN</next_text_06>
+		<next_text_07>LÍNH CANH ĐỊCH</next_text_07>
+		<next_text_08>PLASMA HẠNG NẶNG</next_text_08>
+		<next_text_09>CHIẾN CƠ ĐỊCH</next_text_09>
+		<next_text_10>MÀN KHÓ!</next_text_10>
+		<next_text_11>MÀN KHÓ HƠN!</next_text_11>
+		<next_text_12>MÀN KHÓ NHẤT!</next_text_12>
+		<destroy_title>Địch đã diệt:</destroy_title>
+		<headshot_title>Phát bắn vào đầu:</headshot_title>
+		<time_title>Thời gian:</time_title>
+		<totalscore_title>Tổng điểm:</totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="fr">
+		<touch_continue>TOUCHEZ POUR CONTINUER</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>FUSIL D'ASSAUT</hint_01_title_level_1>
+		<hint_01_level_1>Le fusil d'assaut est l'arme par défaut et possède des munitions infinies.</hint_01_level_1>
+		<hint_02_title_level_1>RÉGÉNÉRATION DE SANTÉ</hint_02_title_level_1>
+		<hint_02_level_1>Rester à couvert permet de régénérer votre santé.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TÉLÉKINÉSIE</hint_01_title_level_2>
+		<hint_01_level_2>Le pouvoir de télékinésie permet de récupérer les power-ups que les ennemis laissent tomber.</hint_01_level_2>
+		<hint_02_title_level_2>POWER-UP D'INVULNÉRABILITÉ</hint_02_title_level_2>
+		<hint_02_level_2>Le power-up d'invulnérabilité vous rend invulnérable pendant un court moment.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>LANCE-FLAMMES</hint_01_title_level_3>
+		<hint_01_level_3>Le lance-flammes est une arme très efficace à courte portée.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>GRENADES ENNEMIES</hint_01_title_level_4>
+		<hint_01_level_4>La télékinésie permet aussi de renvoyer les grenades à l'ennemi.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>TIR RAPIDE</hint_01_title_level_5>
+		<hint_01_level_5>Le power-up Tir rapide accélère la cadence de tir du fusil d'assaut.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>FUSIL DE SNIPER</hint_01_title_level_6>
+		<hint_01_level_6>Le fusil de sniper est une arme efficace à longue distance, facilitant les tirs en pleine tête.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>RALENTI</hint_01_title_level_7>
+		<hint_01_level_7>Le ralenti ralentit les ennemis, vous donnant plus de temps pour les viser.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>SENTINELLE</hint_01_title_level_8>
+		<hint_01_level_8>La sentinelle tire des projectiles de plasma qui infligent des dégâts, même en étant à couvert.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>PLASMA LOURD</hint_01_title_level_9>
+		<hint_01_level_9>Le plasma lourd est une arme lente, mais puissante, qui inflige des dégâts sur une large zone.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>HÉLICOPTÈRE DE COMBAT</hint_01_title_level_10>
+		<hint_01_level_10>L'hélicoptère de combat est un puissant boss qui tire à la fois des projectiles légers et lourds.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>SUIVANT :</next_title>
+		<next_text_01>TÉLÉKINÉSIE / POWER-UP D'INVULNÉRABILITÉ</next_text_01>
+		<next_text_02>LANCE-FLAMMES</next_text_02>
+		<next_text_03>GRENADES ENNEMIES</next_text_03>
+		<next_text_04>POWER-UP TIR RAPIDE</next_text_04>
+		<next_text_05>FUSIL DE SNIPER</next_text_05>
+		<next_text_06>RALENTI</next_text_06>
+		<next_text_07>SENTINELLE ENNEMIE</next_text_07>
+		<next_text_08>PLASMA LOURD</next_text_08>
+		<next_text_09>HÉLICOPTÈRE DE COMBAT ENNEMI</next_text_09>
+		<next_text_10>NIVEAU DIFFICILE !</next_text_10>
+		<next_text_11>NIVEAU ENCORE PLUS DIFFICILE !</next_text_11>
+		<next_text_12>NIVEAU LE PLUS DIFFICILE !</next_text_12>
+		<destroy_title>Ennemis éliminés :</destroy_title>
+		<headshot_title>Tirs en pleine tête :</headshot_title>
+		<time_title>Temps :</time_title>
+		<totalscore_title>Score total :</totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="de">
+		<touch_continue>BERÜHREN: WEITER</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>STURMGEWEHR</hint_01_title_level_1>
+		<hint_01_level_1>Das Sturmgewehr ist die Standardwaffe und hat unbegrenzte Munition.</hint_01_level_1>
+		<hint_02_title_level_1>GESUNDHEITS-ERNEUERUNG</hint_02_title_level_1>
+		<hint_02_level_1>Dich in Deckung zu verschanzen, hilft dir, deine Gesundheit zu erneuern.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TELEKINESE</hint_01_title_level_2>
+		<hint_01_level_2>Mit Telekinese kannst du alle Extras, die Feinde verloren haben, aufsammeln.</hint_01_level_2>
+		<hint_02_title_level_2>UNVERLETZBARKEITS-EXTRA</hint_02_title_level_2>
+		<hint_02_level_2>Das Unverletzbarkeits-Extra macht dich für kurze Zeit unverletzbar.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>FLAMMENWERFER</hint_01_title_level_3>
+		<hint_01_level_3>Der Flammenwerfer ist eine sehr wirkungsvolle Waffe auf kurze Distanz.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>FEINDLICHE GRANATEN</hint_01_title_level_4>
+		<hint_01_level_4>Mit Telekinese kannst du auch feindliche Granaten zurückwerfen.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>SCHNELLFEUER</hint_01_title_level_5>
+		<hint_01_level_5>Das Schnellfeuer-Extra bewirkt, dass das Sturmgewehr schneller feuert.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>SNIPER-GEWEHR</hint_01_title_level_6>
+		<hint_01_level_6>Das Sniper-Gewehr ist eine wirkungsvolle Waffe für Langstrecken, mit der du Kopfschüsse einfacher erzielen kannst.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>VERLANGSAMUNG</hint_01_title_level_7>
+		<hint_01_level_7>Verlangsamung lässt Feinde langsamer bewegen, sodass du mehr Zeit hast, sie anzuvisieren.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>SENTINEL</hint_01_title_level_8>
+		<hint_01_level_8>Der Sentinel feuert Plasmageschosse ab, die Schaden zufügen, selbst wenn das Ziel sich in Deckung befindet.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>SCHWERES PLASMAGEWEHR</hint_01_title_level_9>
+		<hint_01_level_9>Das schwere Plasmagewehr ist eine langsame, aber schlagkräftige Waffe, die großflächigen Schaden zufügen kann.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>KAMPFHUBSCHRAUBER</hint_01_title_level_10>
+		<hint_01_level_10>Der Kampfhelikopter ist ein schlagkräftiger Boss, der sowohl leichte als auch schwere Geschosse abfeuern kann.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>ALS NÄCHSTES:</next_title>
+		<next_text_01>TELEKINESE / UNVERLETZBARKEITS-EXTRA</next_text_01>
+		<next_text_02>FLAMMENWERFER</next_text_02>
+		<next_text_03>FEINDLICHE GRANATEN</next_text_03>
+		<next_text_04>SCHNELLFEUER-EXTRA</next_text_04>
+		<next_text_05>SNIPER-GEWEHR</next_text_05>
+		<next_text_06>VERLANGSAMUNGS-EXTRA</next_text_06>
+		<next_text_07>FEINDLICHER SENTINEL</next_text_07>
+		<next_text_08>SCHWERES PLASMAGEWEHR</next_text_08>
+		<next_text_09>FEINDLICHER KAMPFHUBSCHRAUBER</next_text_09>
+		<next_text_10>SCHWIERIGER LEVEL!</next_text_10>
+		<next_text_11>NOCH SCHWIERIGERER LEVEL!</next_text_11>
+		<next_text_12>SCHWIERIGSTER LEVEL!</next_text_12>
+		<destroy_title>Zerstörte Feinde:</destroy_title>
+		<headshot_title>Kopfschüsse:</headshot_title>
+		<time_title>Zeit:</time_title>
+		<totalscore_title>Gesamtergebnis:</totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="es">
+		<touch_continue>TOCA PARA CONTINUAR</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>RIFLE DE ASALTO</hint_01_title_level_1>
+		<hint_01_level_1>El rifle de asalto es el arma predeterminada y tiene munición infinita.</hint_01_level_1>
+		<hint_02_title_level_1>REGENERACIÓN DE SALUD</hint_02_title_level_1>
+		<hint_02_level_1>Permanecer a cubierto te ayudará a regenerar tu salud.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TELEQUINESIA</hint_01_title_level_2>
+		<hint_01_level_2>Los poderes de telequinesia te ayudarán a recoger todos los potenciadores que dejen caer los enemigos.</hint_01_level_2>
+		<hint_02_title_level_2>POTENCIADOR DE INVULNERABILIDAD</hint_02_title_level_2>
+		<hint_02_level_2>El potenciador de invulnerabilidad te vuelve invencible durante un breve periodo de tiempo.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>LANZALLAMAS</hint_01_title_level_3>
+		<hint_01_level_3>El lanzallamas es un arma muy efectiva a corta distancia.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>GRANADAS DE ENEMIGOS</hint_01_title_level_4>
+		<hint_01_level_4>La telequinesia te ayudará a devolver las granadas a los enemigos.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>FUEGO RÁPIDO</hint_01_title_level_5>
+		<hint_01_level_5>El potenciador de fuego rápido permitirá que el rifle de asalto dispare más rápido.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>FUSIL DE FRANCOTIRADOR</hint_01_title_level_6>
+		<hint_01_level_6>El fusil de francotirador es un arma efectiva a larga distancia, lo que permite disparar a la cabeza con más facilidad.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>RALENTIZADO</hint_01_title_level_7>
+		<hint_01_level_7>El ralentizado hace que los enemigos se muevan más lentamente, lo que facilita apuntar con precisión.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>CENTINELA</hint_01_title_level_8>
+		<hint_01_level_8>El centinela dispara proyectiles de plasma que infligen daño hasta cuando estás a cubierto.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>PLASMA PESADO</hint_01_title_level_9>
+		<hint_01_level_9>El plasma pesado es un arma lenta pero muy potente que inflige daño en un área amplia.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>AERONAVE DE COMBATE</hint_01_title_level_10>
+		<hint_01_level_10>La aeronave de combate es una potente unidad jefe que dispara proyectiles tanto ligeros como pesados.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>SIGUIENTE:</next_title>
+		<next_text_01>PODER DE TELEQUINESIA / POTENCIADOR DE INVULNERABILIDAD</next_text_01>
+		<next_text_02>LANZALLAMAS</next_text_02>
+		<next_text_03>GRANADAS DE ENEMIGOS</next_text_03>
+		<next_text_04>POTENCIADOR DE FUEGO RÁPIDO</next_text_04>
+		<next_text_05>FUSIL DE FRANCOTIRADOR</next_text_05>
+		<next_text_06>PODER DE RALENTIZAR</next_text_06>
+		<next_text_07>CENTINELA ENEMIGO</next_text_07>
+		<next_text_08>PLASMA PESADO</next_text_08>
+		<next_text_09>AERONAVE DE COMBATE ENEMIGA</next_text_09>
+		<next_text_10>NIVEL DIFÍCIL</next_text_10>
+		<next_text_11>NIVEL MÁS DIFÍCIL</next_text_11>
+		<next_text_12>EL NIVEL MÁS DIFÍCIL</next_text_12>
+		<destroy_title>Bajas: </destroy_title>
+		<headshot_title>Tiros a la cabeza: </headshot_title>
+		<time_title>Tiempo:</time_title>
+		<totalscore_title>Puntuación total:</totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="it">
+		<touch_continue>TOCCA PER CONTINUARE</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>FUCILE D'ASSALTO</hint_01_title_level_1>
+		<hint_01_level_1>Il fucile d'assalto è l'arma predefinita e ha munizioni infinite.</hint_01_level_1>
+		<hint_02_title_level_1>RIGENERAZIONE SALUTE</hint_02_title_level_1>
+		<hint_02_level_1>I ripari ti aiutano a rigenerare la salute.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TELECINESI</hint_01_title_level_2>
+		<hint_01_level_2>Il potere Telecinesi permette di prendere tutti i potenziamenti lasciati dai nemici.</hint_01_level_2>
+		<hint_02_title_level_2>POTENZIAMENTO INVULNERABILITÀ</hint_02_title_level_2>
+		<hint_02_level_2>Il potenziamento Invulnerabilità ti rende invulnerabile per un breve periodo di tempo.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>LANCIAFIAMME</hint_01_title_level_3>
+		<hint_01_level_3>Il lanciafiamme è un'arma molto efficace a brevi distanze.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>GRANATE DEL NEMICO</hint_01_title_level_4>
+		<hint_01_level_4>Telecinesi ti può anche aiutare a rilanciare le granate contro il nemico.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>FUOCO RAPIDO</hint_01_title_level_5>
+		<hint_01_level_5>Il potenziamento Fuoco rapido rende più veloci i colpi del fucile d'assalto.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>FUCILE DA CECCHINO</hint_01_title_level_6>
+		<hint_01_level_6>Il fucile da cecchino è un'arma efficace a lunghe distanze e permette di mettere a segno più facilmente i colpi alla testa.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>RALLENTAMENTO</hint_01_title_level_7>
+		<hint_01_level_7>Rallentamento rallenta i nemici, offrendoti più tempo per prenderli di mira.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>SENTINELLA</hint_01_title_level_8>
+		<hint_01_level_8>La sentinella spara proiettili al plasma che infliggono danni anche quando sei al riparo.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>FUCILE AL PLASMA PESANTE</hint_01_title_level_9>
+		<hint_01_level_9>Il fucile al plasma pesante è un'arma lenta ma potente che infligge danni ad ampie aree.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>VELIVOLO D'ASSALTO</hint_01_title_level_10>
+		<hint_01_level_10>Il velivolo d'assalto è un potente mezzo che spara proiettili leggeri e pesanti.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>PROSSIMO:</next_title>
+		<next_text_01>POTERE TELECINESI / POTENZIAMENTO INVULNERABILITÀ</next_text_01>
+		<next_text_02>LANCIAFIAMME</next_text_02>
+		<next_text_03>GRANATE DEL NEMICO</next_text_03>
+		<next_text_04>POTENZIAMENTO FUOCO RAPIDO</next_text_04>
+		<next_text_05>FUCILE DA CECCHINO</next_text_05>
+		<next_text_06>POTENZIAMENTO RALLENTAMENTO</next_text_06>
+		<next_text_07>SENTINELLA NEMICA</next_text_07>
+		<next_text_08>FUCILE AL PLASMA PESANTE</next_text_08>
+		<next_text_09>VELIVOLO D'ASSALTO NEMICO</next_text_09>
+		<next_text_10>LIVELLO DIFFICILE!</next_text_10>
+		<next_text_11>LIVELLO PIÙ DIFFICE!</next_text_11>
+		<next_text_12>LIVELLO DIFFICILISSIMO!</next_text_12>
+		<destroy_title>Nemici eliminati:</destroy_title>
+		<headshot_title>Colpi alla testa:</headshot_title>
+		<time_title>Tempo:</time_title>
+		<totalscore_title>Punti totali:</totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="br">
+		<touch_continue>TOQUE PARA CONTINUAR</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>FUZIL DE ASSALTO</hint_01_title_level_1>
+		<hint_01_level_1>É uma arma padrão e tem munição infinita.</hint_01_level_1>
+		<hint_02_title_level_1>REGENERAÇÃO DE SAÚDE</hint_02_title_level_1>
+		<hint_02_level_1>Fique atrás de uma cobertura para recuperar a saúde.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TELEKINESIS</hint_01_title_level_2>
+		<hint_01_level_2>O poder de Telekinesis ajuda a pegar todos os acessórios deixados pelos inimigos.</hint_01_level_2>
+		<hint_02_title_level_2>ACESSÓRIO DE INVULNERABILIDADE</hint_02_title_level_2>
+		<hint_02_level_2>Você fica invencível por um curto período com esse acessório.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>LANÇA-CHAMAS</hint_01_title_level_3>
+		<hint_01_level_3>O Lança-chamas é uma arma muito útil a curta distância.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>GRANADAS INIMIGAS</hint_01_title_level_4>
+		<hint_01_level_4>Telekinesis também pode ajudar a lançar granadas dos inimigos de volta para eles.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>RAJADA</hint_01_title_level_5>
+		<hint_01_level_5>O acessório de Rajada torna o Fuzil de Assalto ainda mais rápido.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>FUZIL DE PRECISÃO</hint_01_title_level_6>
+		<hint_01_level_6>É uma arma útil a longa distância, perfeita para certar tiros na cabeça.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>RETARDAR O TEMPO</hint_01_title_level_7>
+		<hint_01_level_7>Reduz a velocidade dos inimigos e te dá mais tempo para mirar.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>SENTINELA</hint_01_title_level_8>
+		<hint_01_level_8>Dispara projéteis de plasma que causam dano mesmo quando você está atrás da cobertura.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>SUPERPLASMA</hint_01_title_level_9>
+		<hint_01_level_9>É uma arma lenta, mas poderosa. Causa dano em uma grande área.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>GUNSHIP</hint_01_title_level_10>
+		<hint_01_level_10>É um chefe poderoso que dispara rajadas de luz e projéteis.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>PRÓXIMO:</next_title>
+		<next_text_01>TELEKINESIS/ACESSÓRIO DE INVULNERABILIDADE</next_text_01>
+		<next_text_02>LANÇA-CHAMAS</next_text_02>
+		<next_text_03>GRANADAS INIMIGAS</next_text_03>
+		<next_text_04>RAJADA</next_text_04>
+		<next_text_05>FUZIL DE PRECISÃO</next_text_05>
+		<next_text_06>RETARDAR O TEMPO</next_text_06>
+		<next_text_07>SENTINELA</next_text_07>
+		<next_text_08>SUPERPLASMA</next_text_08>
+		<next_text_09>GUNSHIP </next_text_09>
+		<next_text_10>NÍVEL DIFÍCIL</next_text_10>
+		<next_text_11>NÍVEL DIFICÍLIMO</next_text_11>
+		<next_text_12>NÍVEL MAIS DIFÍCIL</next_text_12>
+		<destroy_title>Inimigos destruídos:</destroy_title>
+		<headshot_title>Tiros na cabeça:</headshot_title>
+		<time_title>Tempo:</time_title>
+		<totalscore_title>Pontuação:</totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="tr">
+		<touch_continue>DEVAM ETMEK İÇİN DOKUN</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>SALDIRI SİLAHI</hint_01_title_level_1>
+		<hint_01_level_1>Saldırı silahı temel silahtır ve cephanesi sınırsızdır.</hint_01_level_1>
+		<hint_02_title_level_1>SAĞLIK YENİLEME</hint_02_title_level_1>
+		<hint_02_level_1>Siper arkasında kalarak sağlık kazanabilirsin.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TELEKİNESİS </hint_01_title_level_2>
+		<hint_01_level_2>Telekinesisin gücüyle düşmanlardan düşen tüm güçlendirmeleri toplayabilirsin.</hint_01_level_2>
+		<hint_02_title_level_2>DOKUNULMAZLIK GÜÇLENDİRMESİ</hint_02_title_level_2>
+		<hint_02_level_2>Dokunulmazlık güçlendirmesiyle kısa bir süre için dokunulmaz olursun.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>LAV ATICI</hint_01_title_level_3>
+		<hint_01_level_3>Lav atıcı kısa menzilde çok etkili bir silahtır.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>DÜŞMAN EL BOMBALARI</hint_01_title_level_4>
+		<hint_01_level_4>Telekinesisle, düşman el bombalarını onlara geri de fırlatabilirsin.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>HIZLI ATEŞ</hint_01_title_level_5>
+		<hint_01_level_5>Hızlı ateş güçlendirmesiyle saldırı silahı daha hızlı ateşlenir.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>DÜRBÜNLÜ TÜFEK</hint_01_title_level_6>
+		<hint_01_level_6>Dürbünlü tüfek, uzun menzilde etkili ve kafadan vuruşları kolaylaştıran bir silahtır.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>ZAMAN YAVAŞLATMA</hint_01_title_level_7>
+		<hint_01_level_7>Zaman yavaşlatma, düşmanları yavaşlatarak onlara hedef alman için daha fazla zaman verir.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>GÖZCÜ</hint_01_title_level_8>
+		<hint_01_level_8>Gözcü, siper arkasındayken bile hasar veren plazma mermileri ateşler.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>AĞIR PLAZMA</hint_01_title_level_9>
+		<hint_01_level_9>Ağır plazma, yavaş ama geniş bir alana etki eden güçlü bir silahtır.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>SİLAHGEMİSİ</hint_01_title_level_10>
+		<hint_01_level_10>Silahgemisi, ışık ve ağır mermiler atan güçlü bir patrondur.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>İLERİ:</next_title>
+		<next_text_01>TELEKİNESİS GÜÇLENDİRMESİ / DOKUNULMAZLIK GÜÇLENDİRMESİ</next_text_01>
+		<next_text_02>LAV ATICI</next_text_02>
+		<next_text_03>DÜŞMAN EL BOMBALARI</next_text_03>
+		<next_text_04>HIZLI ATEŞ GÜÇLENDİRMESİ</next_text_04>
+		<next_text_05>DÜRBÜNLÜ TÜFEK</next_text_05>
+		<next_text_06>ZAMAN YAVAŞLATMA GÜÇLENDİRMESİ</next_text_06>
+		<next_text_07>DÜŞMAN GÖZCÜSÜ</next_text_07>
+		<next_text_08>AĞIR PLAZMA</next_text_08>
+		<next_text_09>DÜŞMAN SİLAHGEMİSİ</next_text_09>
+		<next_text_10>ZOR SEVİYE!</next_text_10>
+		<next_text_11>DAHA ZOR SEVİYE!</next_text_11>
+		<next_text_12>EN ZOR SEVİYE!</next_text_12>
+		<destroy_title>Yok edilen düşman:</destroy_title>
+		<headshot_title>Kafa vuruşları:</headshot_title>
+		<time_title>Süre:</time_title>
+		<totalscore_title>Toplam Skor:</totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="ru">
+		<touch_continue>НАЖМИТЕ, ЧТОБЫ ПРОДОЛЖИТЬ</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>ШТУРМОВАЯ ВИНТОВКА</hint_01_title_level_1>
+		<hint_01_level_1>Штурмовая винтовка - оружие с неограниченным количеством патронов, которое вы получаете по умолчанию.</hint_01_level_1>
+		<hint_02_title_level_1>ВОССТАНОВЛЕНИЕ ЗДОРОВЬЯ</hint_02_title_level_1>
+		<hint_02_level_1>Помогает восстанавливать здоровье, пока вы находитесь в укрытии.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>ТЕЛЕКИНЕЗ</hint_01_title_level_2>
+		<hint_01_level_2>Телекинез поможет вам собрать все усиления, которые упустили враги.</hint_01_level_2>
+		<hint_02_title_level_2>НЕУЯЗВИМОСТЬ</hint_02_title_level_2>
+		<hint_02_level_2>Это усиление делает вас неуязвимым на короткое время.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>ОГНЕМЕТ</hint_01_title_level_3>
+		<hint_01_level_3>Огнемет - крайне эффективное оружие ближнего боя.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>ГРАНАТЫ ВРАГОВ</hint_01_title_level_4>
+		<hint_01_level_4>С помощью телекинеза вы сможете отбрасывать на врагов гранаты, которые они в вас бросили.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>БЕГЛЫЙ ОГОНЬ</hint_01_title_level_5>
+		<hint_01_level_5>Благодаря данному усилению ваша штурмовая винтовка будет стрелять быстрее.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>СНАЙПЕРСКАЯ ВИНТОВКА</hint_01_title_level_6>
+		<hint_01_level_6>Снайперская винтовка - эффективное оружие дальнего боя. С ее помощью вы сможете легко попасть в голову врага.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>ЗАМЕДЛЕНИЕ</hint_01_title_level_7>
+		<hint_01_level_7>Замедляет движения врагов, позволяя вам лучше прицелиться.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>СТРАЖ</hint_01_title_level_8>
+		<hint_01_level_8>Страж стреляет плазмой, нанося урон, даже если вы находитесь в укрытии.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>ПЛАЗМОМЕТ</hint_01_title_level_9>
+		<hint_01_level_9>Плазмомет - медленное, но мощное оружие с большой зоной поражения.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>ШТУРМОВИК</hint_01_title_level_10>
+		<hint_01_level_10>Штурмовик - мощный босс, стреляет мелкими и крупными снарядами.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>ДАЛЕЕ:</next_title>
+		<next_text_01>ТЕЛЕКИНЕЗ/НЕУЯЗВИМОСТЬ</next_text_01>
+		<next_text_02>ОГНЕМЕТ</next_text_02>
+		<next_text_03>ГРАНАТЫ ВРАГОВ</next_text_03>
+		<next_text_04>БЕГЛЫЙ ОГОНЬ</next_text_04>
+		<next_text_05>СНАЙПЕРСКАЯ ВИНТОВКА</next_text_05>
+		<next_text_06>ЗАМЕДЛЕНИЕ</next_text_06>
+		<next_text_07>ВРАЖЕСКИЙ СТРАЖ</next_text_07>
+		<next_text_08>ПЛАЗМОМЕТ</next_text_08>
+		<next_text_09>ВРАЖЕСКИЙ ШТУРМОВИК</next_text_09>
+		<next_text_10>СЛОЖНО!</next_text_10>
+		<next_text_11>ЕЩЕ СЛОЖНЕЕ!</next_text_11>
+		<next_text_12>САМЫЙ СЛОЖНЫЙ УРОВЕНЬ!</next_text_12>
+		<destroy_title>Уничтоженные враги:</destroy_title>
+		<headshot_title>Попадания в голову:</headshot_title>
+		<time_title>Время:</time_title>
+		<totalscore_title>Общий счет:</totalscore_title>
+		
+		
+	</language>
+	
+	<language lang="id">
+		<touch_continue>SENTUH UNTUK MELANJUTKAN</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>SENAPAN SERBU</hint_01_title_level_1>
+		<hint_01_level_1>Senapan Serbu adalah senjata awal dan memiliki amunisi tak terbatas.</hint_01_level_1>
+		<hint_02_title_level_1>REGENERASI NYAWA</hint_02_title_level_1>
+		<hint_02_level_1>Bersembunyi di balik perlindungan membantumu meregenerasi nyawa.</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>TELEKINESIS</hint_01_title_level_2>
+		<hint_01_level_2>Kekuatan Telekinesis membantumu memperoleh semua power up yang jatuh dari musuh.</hint_01_level_2>
+		<hint_02_title_level_2>POWER UP KEKEBALAN</hint_02_title_level_2>
+		<hint_02_level_2>Power up Kekebalan memberimu ketahanan untuk waktu yang singkat.</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>PELONTAR API</hint_01_title_level_3>
+		<hint_01_level_3>Pelontar Api adalah senjata yang sangat efektif untuk jarak dekat.</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>GRANAT MUSUH</hint_01_title_level_4>
+		<hint_01_level_4>Telekinesis juga bisa membantumu melemparkan granat musuh kembali pada mereka.</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>TEMBAKAN CEPAT</hint_01_title_level_5>
+		<hint_01_level_5>Power up TEMBAKAN CEPAT membuat Senapan Serbu menembak lebih cepat.</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>SENAPAN RUNDUK</hint_01_title_level_6>
+		<hint_01_level_6>SENAPAN RUNDUK adalah senjata yang efektif untuk jarak jauh, menembak di kepala jadi lebih mudah.</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>WAKTU LAMBAT</hint_01_title_level_7>
+		<hint_01_level_7>Waktu Lambat memperlambat musuh, memberimu lebih banyak waktu untuk membidik mereka.</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>PENJAGA</hint_01_title_level_8>
+		<hint_01_level_8>Penjaga menembakkan proyektil plasma yang menimbulkan kerusakan bahkan saat kamu berlindung.</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>PLASMA BERAT</hint_01_title_level_9>
+		<hint_01_level_9>Plasma Berat adalah senjata lamban tapi kuat yang menimbulkan kerusakan di area yang luas.</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>GUNSHIP</hint_01_title_level_10>
+		<hint_01_level_10>Gunship adalah bos kuat yang menembakkan proyektil ringan dan berat.</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>BERIKUTNYA:</next_title><next_text_01>KEKUATAN TELEKINESIS / POWER UP KEKEBALAN</next_text_01>
+		<next_text_02>PELONTAR API</next_text_02>
+		<next_text_03>GRANAT MUSUH</next_text_03>
+		<next_text_04>POWER UP TEMBAKAN CEPAT</next_text_04>
+		<next_text_05>SENAPAN SERBU</next_text_05>
+		<next_text_06>KEKUATAN WAKTU LAMBAT</next_text_06>
+		<next_text_07>PENJAGA MUSUH</next_text_07>
+		<next_text_08>PLASMA BERAT</next_text_08>
+		<next_text_09>GUNSHIP MUSUH</next_text_09>
+		<next_text_10>LEVEL TINGGI!</next_text_10>
+		<next_text_11>LEVEL LEBIH TINGGI!</next_text_11>
+		<next_text_12>LEVEL TERTINGGI!</next_text_12>
+		<destroy_title>Musuh yang dihancurkan:</destroy_title>
+		<headshot_title>Tembakan di kepala:</headshot_title>
+		<time_title>Waktu:</time_title>
+		<totalscore_title>Skor Total:</totalscore_title>
+	</language>
+	
+	<language lang="th">
+		<touch_continue>แตะเพื่อไปต่อ</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>ไรเฟิลจู่โจม</hint_01_title_level_1>
+		<hint_01_level_1>ปืนไรเฟิลจู่โจมเป็นอาวุธตั้งต้นที่มีกระสุนไม่จำกัด</hint_01_level_1>
+		<hint_02_title_level_1>การฟื้นฟูพลังชีวิต</hint_02_title_level_1>
+		<hint_02_level_1>การหลบอยู่หลังที่กำบังจะช่วยให้คุณฟื้นฟูพลังชีวิต</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>โทรจิต</hint_01_title_level_2>
+		<hint_01_level_2>พลังโทรจิตจะช่วยให้คุณเก็บตัวเสริมพลังที่ตกจากศัตรูได้</hint_01_level_2>
+		<hint_02_title_level_2>ตัวเสริมพลังอมตะ</hint_02_title_level_2>
+		<hint_02_level_2>ตัวเสริมพลังอมตะจะทำให้คุณยิงไม่เข้าในช่วงระยะเวลาสั้น ๆ</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>ปืนพ่นไฟ</hint_01_title_level_3>
+		<hint_01_level_3>ปืนพ่นไฟเป็นอาวุธที่มีประสิทธิภาพมากในระยะใกล้</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>ระเบิดของศัตรู</hint_01_title_level_4>
+		<hint_01_level_4>พลังโทรจิตยังช่วยให้คุณปาระเบิดของศัตรูกลับไปหาเจ้าของได้</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>ยิงรัว</hint_01_title_level_5>
+		<hint_01_level_5>ตัวเสริมพลังยิงรัวจะทำให้ปืนไรเฟิลจู่โจมยิงได้เร็วขึ้น</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>ไรเฟิลซุ่มยิง</hint_01_title_level_6>
+		<hint_01_level_6>ปืนไรเฟิลซุ่มยิงเป็นอาวุธที่มีประสิทธิภาพในระยะไกล ทำให้ยิงหัวได้ง่ายดายยิ่งขึ้น</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>ชะลอเวลา</hint_01_title_level_7>
+		<hint_01_level_7>ชะลอเวลาจะทำให้ศัตรูเคลื่อนที่ช้าลง ทำให้คุณมีเวลาเล็งพวกมันนานขึ้น</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>เซนทิเนล</hint_01_title_level_8>
+		<hint_01_level_8>เซนทิเนลจะยิงกระสุนพลาสม่าที่สร้างความเสียหายให้กับคุณ แม้ในยามที่คุณหลบอยู่หลังที่กำบัง</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>เฮฟวี่พลาสม่า</hint_01_title_level_9>
+		<hint_01_level_9>ปืนเฮฟวี่พลาสม่าเป็นอาวุธทรงพลังที่จะสร้างความเสียหายแบบกินวงกว้าง</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>ยานพิฆาต</hint_01_title_level_10>
+		<hint_01_level_10>ยานพิฆาตเป็นบอสทรงพลังที่จะระดมยิงทั้งกระสุนเบาและกระสุนหนักใส่คุณ</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>ถัดไป:</next_title>
+		<next_text_01>พลังโทรจิต / ตัวเสริมพลังอมตะ</next_text_01>
+		<next_text_02>ปืนพ่นไฟ</next_text_02>
+		<next_text_03>ระเบิดของศัตรู</next_text_03>
+		<next_text_04>ตัวเสริมพลังยิงรัว</next_text_04>
+		<next_text_05>ไรเฟิลซุ่มยิง</next_text_05>
+		<next_text_06>พลังชะลอเวลา</next_text_06>
+		<next_text_07>เซนทิเนลศัตรู</next_text_07>
+		<next_text_08>เฮฟวี่พลาสม่า</next_text_08>
+		<next_text_09>ยานพิฆาตของศัตรู</next_text_09>
+		<next_text_10>เลเวลยาก!</next_text_10>
+		<next_text_11>เลเวลยากมาก!</next_text_11>
+		<next_text_12>เลเวลยากที่สุด!</next_text_12>
+		<destroy_title>จำนวนศัตรูที่กำจัด:</destroy_title>
+		<headshot_title>ยิงหัว:</headshot_title>
+		<time_title>เวลา:</time_title>
+		<totalscore_title>คะแนนรวม: </totalscore_title>
+	</language>
+	
+	
+	
+	<language lang="tw">
+		<touch_continue>點擊以繼續</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>突擊步槍</hint_01_title_level_1>
+		<hint_01_level_1>突擊步槍是必備武器，有無止盡的彈藥。</hint_01_level_1>
+		<hint_02_title_level_1>休生養息</hint_02_title_level_1>
+		<hint_02_level_1>躲在牆後掩護可以讓你恢復生命力</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>隔空取物</hint_01_title_level_2>
+		<hint_01_level_2>隔空取物的能力，可以讓你拾起敵人掉下來的道具。</hint_01_level_2>
+		<hint_02_title_level_2>萬夫莫敵道具</hint_02_title_level_2>
+		<hint_02_level_2>萬夫莫敵道具可讓你在短暫時間內擁有無敵的能力。</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>噴火器</hint_01_title_level_3>
+		<hint_01_level_3>噴火器是非常強大的武器，尤其是在近距離時。</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>反擊手榴彈</hint_01_title_level_4>
+		<hint_01_level_4>隔空取物也可以讓你把敵人的手榴彈反拋回去。</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>火速發射</hint_01_title_level_5>
+		<hint_01_level_5>火速發射這個道具，可以讓突擊步槍更快速發射子彈。</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>狙擊步槍</hint_01_title_level_6>
+		<hint_01_level_6>狙擊步槍是非常強大的武器，尤其是在遠距離時，讓爆頭更加容易。</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>放慢速度</hint_01_title_level_7>
+		<hint_01_level_7>放慢速度會讓敵人變成慢動作，給你更多時間瞄準他們。</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>鬼影哨兵</hint_01_title_level_8>
+		<hint_01_level_8>鬼影哨兵會發射電漿炮，就算在牆後掩護也無法避免受到傷害。</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>重型電漿炮</hint_01_title_level_9>
+		<hint_01_level_9>重型電漿炮的射速雖緩慢但卻很強大，傷害的影響範圍會擴大。</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>空中戰機</hint_01_title_level_10>
+		<hint_01_level_10>空中戰機是強大的敵軍，輕型及重型的砲彈都是它的武器。</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>下一個：</next_title>
+		<next_text_01>隔空取物能力/萬夫莫敵道具</next_text_01>
+		<next_text_02>噴火器</next_text_02>
+		<next_text_03>反擊手榴彈</next_text_03>
+		<next_text_04>火速發射道具</next_text_04>
+		<next_text_05>狙擊步槍</next_text_05>
+		<next_text_06>放慢速度能力</next_text_06>
+		<next_text_07>鬼影哨兵敵人</next_text_07>
+		<next_text_08>重型電漿炮</next_text_08>
+		<next_text_09>空中戰機敵人</next_text_09>
+		<next_text_10>稍難關卡！</next_text_10>
+		<next_text_11>困難關卡！</next_text_11>
+		<next_text_12>最難關卡！</next_text_12>
+		<destroy_title>殲滅敵人數量：</destroy_title>
+		<headshot_title>爆頭：</headshot_title>
+		<time_title>時間：</time_title>
+		<totalscore_title>總分：</totalscore_title>
+	</language>
+	
+	<language lang="cn">
+		<touch_continue>点击继续</touch_continue>
+		<!--Hints of level 01-->
+		<hint_01_title_level_1>突击步枪</hint_01_title_level_1>
+		<hint_01_level_1>突击步枪为默认武器，拥有无限弹药。</hint_01_level_1>
+		<hint_02_title_level_1>生命回复</hint_02_title_level_1>
+		<hint_02_level_1>待在掩体后可助你回复生命值。</hint_02_level_1>
+		
+		<!--Hints of level 02-->
+		<hint_01_title_level_2>心灵遥感</hint_01_title_level_2>
+		<hint_01_level_2>心灵遥感的念力能帮助你拾取敌人掉落的所有道具。</hint_01_level_2>
+		<hint_02_title_level_2>无敌道具</hint_02_title_level_2>
+		<hint_02_level_2>无敌道具能使你短时间内无敌。</hint_02_level_2>
+		
+		<!--Hints of level 03-->
+		<hint_01_title_level_3>火焰喷射器</hint_01_title_level_3>
+		<hint_01_level_3>火焰喷射器是极为有效的近程武器。</hint_01_level_3>
+		<hint_02_title_level_3> </hint_02_title_level_3>
+		<hint_02_level_3> </hint_02_level_3>
+		
+		<!--Hints of level 04-->
+		<hint_01_title_level_4>敌人手雷</hint_01_title_level_4>
+		<hint_01_level_4>心灵遥感还能帮助你将敌人扔出的手雷反扔向他们自己。</hint_01_level_4>
+		<hint_02_title_level_4> </hint_02_title_level_4>
+		<hint_02_level_4> </hint_02_level_4>
+		
+		<!--Hints of level 05-->
+		<hint_01_title_level_5>急速射击</hint_01_title_level_5>
+		<hint_01_level_5>急速射击道具使突击步枪的射速提高。</hint_01_level_5>
+		<hint_02_title_level_5> </hint_02_title_level_5>
+		<hint_02_level_5> </hint_02_level_5>
+		
+		<!--Hints of level 06-->
+		<hint_01_title_level_6>狙击枪</hint_01_title_level_6>
+		<hint_01_level_6>狙击枪是有效的远距离武器，用它能轻松完成爆头。</hint_01_level_6>
+		<hint_02_title_level_6> </hint_02_title_level_6>
+		<hint_02_level_6> </hint_02_level_6>
+		
+		<!--Hints of level 07-->
+		<hint_01_title_level_7>时间缓速</hint_01_title_level_7>
+		<hint_01_level_7>时间缓速能使敌人动作减慢，给你更多时间瞄准。</hint_01_level_7>
+		<hint_02_title_level_7> </hint_02_title_level_7>
+		<hint_02_level_7> </hint_02_level_7>
+		
+		<!--Hints of level 08-->
+		<hint_01_title_level_8>哨兵</hint_01_title_level_8>
+		<hint_01_level_8>哨兵发射等离子弹，即使你躲在掩体后时也能造成伤害。</hint_01_level_8>
+		<hint_02_title_level_8> </hint_02_title_level_8>
+		<hint_02_level_8> </hint_02_level_8>
+		
+		<!--Hints of level 09-->
+		<hint_01_title_level_9>等离子重炮</hint_01_title_level_9>
+		<hint_01_level_9>等离子重炮是一件速度缓慢但威力巨大的武器，能造成大面积伤害。</hint_01_level_9>
+		<hint_02_title_level_9> </hint_02_title_level_9>
+		<hint_02_level_9> </hint_02_level_9>
+		
+		<!--Hints of level 10-->
+		<hint_01_title_level_10>武装直升机</hint_01_title_level_10>
+		<hint_01_level_10>武装直升机是强大的首领级敌人，同时拥有轻型和重型火力。</hint_01_level_10>
+		<hint_02_title_level_10> </hint_02_title_level_10>
+		<hint_02_level_10> </hint_02_level_10>
+		
+		<!--Hints of level 11-->
+		<hint_01_title_level_11> </hint_01_title_level_11>
+		<hint_01_level_11> </hint_01_level_11>
+		<hint_02_title_level_11> </hint_02_title_level_11>
+		<hint_02_level_11> </hint_02_level_11>
+		
+		<!--Hints of level 12-->
+		<hint_01_title_level_12> </hint_01_title_level_12>
+		<hint_01_level_12> </hint_01_level_12>
+		<hint_02_title_level_12> </hint_02_title_level_12>
+		<hint_02_level_12> </hint_02_level_12>
+		
+		<!--Hints of level 13-->
+		<hint_01_title_level_13> </hint_01_title_level_13>
+		<hint_01_level_13> </hint_01_level_13>
+		<hint_02_title_level_13> </hint_02_title_level_13>
+		<hint_02_level_13> </hint_02_level_13>
+		
+		<!--Hints of level 14-->
+		<hint_01_title_level_14> </hint_01_title_level_14>
+		<hint_01_level_14> </hint_01_level_14>
+		<hint_02_title_level_14> </hint_02_title_level_14>
+		<hint_02_level_14> </hint_02_level_14>
+		
+		<next_title>下一条：</next_title>
+		<next_text_01>心灵遥感 / 无敌道具</next_text_01>
+		<next_text_02>火焰喷射器</next_text_02>
+		<next_text_03>敌人手雷</next_text_03>
+		<next_text_04>急速射击道具</next_text_04>
+		<next_text_05>狙击枪</next_text_05>
+		<next_text_06>时间缓速道具</next_text_06>
+		<next_text_07>敌人哨兵</next_text_07>
+		<next_text_08>等离子重炮</next_text_08>
+		<next_text_09>敌人武装直升机</next_text_09>
+		<next_text_10>困难关卡！</next_text_10>
+		<next_text_11>极难关卡！ </next_text_11>
+		<next_text_12>超难关卡！</next_text_12>
+		<destroy_title>消灭敌人：</destroy_title>
+		<headshot_title>爆头：</headshot_title>
+		<time_title>时间：</time_title>
+		<totalscore_title>总分：</totalscore_title>
+	</language>
+	
+	<!--update 18/09/2015-->
+	
+
+
+
+
+
+
+</loc>
